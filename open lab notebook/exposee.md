@@ -11,11 +11,17 @@ To this end, participants will listen to three auditory stimuli-types (speech, s
 
 ### References
 
--Angulo-Perkins, A., Aubé, W., Peretz, I., Barrios, F. A., Armony, J. L., & Concha, L. (2014). Music listening engages specific cortical regions within the temporal lobes: Differences between musicians and non-musicians. Cortex, 59, 126–137. https://doi.org/10.1016/j.cortex.2014.07.013
--Da Costa, S., van der Zwaag, W., Marques, J. P., Frackowiak, R. S. J., Clarke, S., & Saenz, M. (2011). Human Primary Auditory Cortex Follows the Shape of Heschl’s Gyrus. Journal of Neuroscience, 31(40), 14067–14075. https://doi.org/10.1523/JNEUROSCI.2000-11.2011
--Josse, G., & Tzourio-Mazoyer, N. (2004). Hemispheric specialization for language. Brain Research Reviews. https://doi.org/10.1016/j.brainresrev.2003.10.001
--Norman-Haignere, S., Kanwisher, N. G., & McDermott, J. H. (2015). Distinct Cortical Pathways for Music and Speech Revealed by Hypothesis-Free Voxel Decomposition. Neuron, 88(6), 1281–1296. https://doi.org/10.1016/j.neuron.2015.11.035
--Rogalsky, C., Rong, F., Saberi, K., & Hickok, G. (2011). Functional Anatomy of Language and Music Perception: Temporal and Structural Factors Investigated Using Functional Magnetic Resonance Imaging. Journal of Neuroscience, 31(10), 3843–3852. https://doi.org/10.1523/JNEUROSCI.4515-10.2011
--Tervaniemi, M. (2006). From Air Oscillations to Music and Speech: Functional Magnetic Resonance Imaging Evidence for Fine-Tuned Neural Networks in Audition. Journal of Neuroscience, 26(34), 8647–8652. https://doi.org/10.1523/JNEUROSCI.0995-06.2006
--Zatorre, J. R. (2002). Auditory Cortex, Encyclopedia of the Human Brain (p. 289-301). Elsevier. https://www.sciencedirect.com/science/article/pii/B0122272102000467
+- Angulo-Perkins, A., Aubé, W., Peretz, I., Barrios, F. A., Armony, J. L., & Concha, L. (2014). Music listening engages specific cortical regions within the temporal lobes: Differences between musicians and non-musicians. Cortex, 59, 126–137. https://doi.org/10.1016/j.cortex.2014.07.013
+
+- Da Costa, S., van der Zwaag, W., Marques, J. P., Frackowiak, R. S. J., Clarke, S., & Saenz, M. (2011). Human Primary Auditory Cortex Follows the Shape of Heschl’s Gyrus. Journal of Neuroscience, 31(40), 14067–14075. https://doi.org/10.1523/JNEUROSCI.2000-11.2011
+
+- Josse, G., & Tzourio-Mazoyer, N. (2004). Hemispheric specialization for language. Brain Research Reviews. https://doi.org/10.1016/j.brainresrev.2003.10.001
+
+- Norman-Haignere, S., Kanwisher, N. G., & McDermott, J. H. (2015). Distinct Cortical Pathways for Music and Speech Revealed by Hypothesis-Free Voxel Decomposition. Neuron, 88(6), 1281–1296. https://doi.org/10.1016/j.neuron.2015.11.035
+
+- Rogalsky, C., Rong, F., Saberi, K., & Hickok, G. (2011). Functional Anatomy of Language and Music Perception: Temporal and Structural Factors Investigated Using Functional Magnetic Resonance Imaging. Journal of Neuroscience, 31(10), 3843–3852. https://doi.org/10.1523/JNEUROSCI.4515-10.2011
+
+- Tervaniemi, M. (2006). From Air Oscillations to Music and Speech: Functional Magnetic Resonance Imaging Evidence for Fine-Tuned Neural Networks in Audition. Journal of Neuroscience, 26(34), 8647–8652. https://doi.org/10.1523/JNEUROSCI.0995-06.2006
+
+- Zatorre, J. R. (2002). Auditory Cortex, Encyclopedia of the Human Brain (p. 289-301). Elsevier. https://www.sciencedirect.com/science/article/pii/B0122272102000467
  
